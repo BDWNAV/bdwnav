@@ -8,7 +8,7 @@ Well in the future I want to become a software engineer, and make a big and succ
 Although I don't use [bluefox](https://bluefoxhost.com) for my websites and stuff I use to host my discord bots and my upcoming guild manager bot [Setsudo](https://github.com/BDWNAV/Setsudo).
 
 # Projects
-I am currently working on, my main bot [Setsudo](https://github.com/BDWNAV/Setsudo). My past projects include [my chat website](https://github.com/BDWNAV/socket.io-chat-project), [Nav's utilities](https://github.com/BDWNAV/Navs-utilites) 
+I am currently working on, my main bot [Setsudo](https://github.com/BDWNAV/Setsudo). My past projects include [my chat website](https://github.com/BDWNAV/socket.io-chat-project), [Nav's utilities](https://github.com/BDWNAV/Navs-utilties) 
 
 # Stats
 ![Nav's language stats](https://github-readme-stats.vercel.app/api?username=BDWNAV&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
